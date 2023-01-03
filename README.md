@@ -4,6 +4,6 @@
 
 #### Tecnologías:
 ![Tecnologías](https://github.com/alelulu/alelulu/blob/main/tecno1.jpg?raw=true)
-- Puedes conocer más sobre mi carrera profeisonal en mi [currículum](#).
+- Puedes conocer más sobre mi carrera profesional en mi [currículum](#).
 
 ##### Contáctame en: ale.silvasuazo@gmail.com
