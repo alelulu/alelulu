@@ -4,7 +4,7 @@ Hola ദ്ദി ˉ͈̀꒳ˉ͈́ ) ✧ !
 Este es mi repositorio de proyectos personales.
 
 Mi nombre es **Alejandra Silva**
- y soy Frontend developer, UX-UI designer designer y desarrolladora VTEX.
+ y soy Frontend developer, UX-UI designer y desarrolladora VTEX.
 
 
 #### Experiencia laboral:
